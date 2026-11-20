@@ -372,7 +372,7 @@
 			"modelType": "Storefront — Policies",
 			"isPublished": true,
 			"attributes": {
-				"Free shipping threshold": 75,
+				"Free shipping threshold": 50,
 				"Returns window days": 30
 			}
 		},

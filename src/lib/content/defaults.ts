@@ -14,7 +14,7 @@ export const defaultStorefrontContent = {
 	// numbers into strings, so the cart math, announcement, and trust labels never drift.
 	policies: {
 		shipping: {
-			freeShippingThreshold: 75,
+			freeShippingThreshold: 50,
 		},
 		returns: {
 			windowDays: 30,
